@@ -1,0 +1,22 @@
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+                 ==  BATTLESHIP INSTRUCTIONS  ==
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+
+This text-based game mirrors the rules of the classic board game.
+Just a few notes before you begin:
+
+THE MAP SYMBOLS:
+  X   hits
+  O   misses
+  #   ships (not yet hit)
+
+ENTERING LOCATIONS:
+  Enter locations using the row letter and column number,
+  with no spaces: e.g. "F10"
+
+TAKING TURNS:
+  Each turn begins with an anchor screen to give a chance for
+  players to swap places (and keep their boards secret).
+
+MOBILE DEVICES:
+  If you're playing on a mobile device, hold it horizontally.
